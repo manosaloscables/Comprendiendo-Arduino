@@ -1,7 +1,7 @@
 # Comprendiendo-Arduino
 Archivos complementarios para el foro
 
-En este repositorio se encuentran los archivos complementarios usados en el blog Comprendiendo Arduino en el que se presenta información completa que muestra desde cómo encender un LED intermitente, a por qué se prende y cómo el microcontrolador lo hace. Está orientado a aquellas personas que quieren saber por qué el Arduino hace lo que hace y quieren ver el ‘motor’ y el funcionamiento de nuestro gran ‘vehículo’ Arduino.
+En este repositorio se encuentran los archivos complementarios usados en el blog Comprendiendo Arduino en el que se presenta información completa que muestra desde cómo encender un LED intermitente, a por qué se prende y cómo el microcontrolador lo hace. Está orientado a aquellas personas que quieren saber por qué el Arduino hace lo que hace y quieren ver el ‘motor’ y el funcionamiento del gran ‘vehículo’ Arduino.
 
 El blog nace por las ganas de devolver un grano de arena al equipo creador de la plataforma Arduino, y espero que sea de ayuda para todo el mundo hispanohablante. Lo que muchos blogs y tutoriales olvidan es presentar la misión y la visión de Arduino, que es realmente el fundamento y cuyos frutos se ven en tanta innovación, es por eso que la repetiré:
 
